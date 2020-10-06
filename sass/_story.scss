@@ -1,8 +1,10 @@
 .story{
     &__pictures{
         background-color: darkcyan;
+        grid-column: full-start / col-end 4;
     }
     &__content{
         background-color: darkkhaki;
+        grid-column: col-start 5 / full-end;
     }   
 }
