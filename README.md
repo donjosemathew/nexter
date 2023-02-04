@@ -1,11 +1,5 @@
-# nexter
+# Nexter
  Landing Page :Home Builders
-
-// Step 1: Use `publishConfig` option in your package.json
-"publishConfig": { "registry": "https://npm.pkg.github.com/" }
-<br><br><br>
-// Step 2: Authenticate
-$ npm login --registry=https://npm.pkg.github.com/
-<br><br><br>
-// Step 3: Publish
-$ npm publish
+<br/>
+<br/>
+<img width="80%" src="https://github.com/donjosemathew/nexter/blob/master/Screenshot%202023-02-04%20123200.png?raw=true" />
